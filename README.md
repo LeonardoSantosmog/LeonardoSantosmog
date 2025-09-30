@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/LeonardoSantosmog">
   <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=LeonardoSantosmog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosmog&layout=compact&langs_count_private=true&theme=dracula"/>
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSantosmog&layout=compact&langs_count_private=true&theme=dracula"/>
 </div>
     
 <div align="center">
