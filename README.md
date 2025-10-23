@@ -1,6 +1,6 @@
 ## Olá! Me chamo Leonardo, sou Desenvolvedor e Estudante!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=(+%22Olá+Dev!+Bem+vindo+ao+meu+Git+Hub%22+))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=+%22Olá+Dev!+Bem+vindo+ao+meu+Git+Hub%22+)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/LeonardoSantosmog">
